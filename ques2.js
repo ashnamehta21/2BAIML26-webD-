@@ -44,7 +44,7 @@ acc1.deposit(1500);
 acc1.withdraw(2000);
 acc1.withdraw(10000);
 acc1.displayBalance();
-console.log("Transactions on Account 1002");
+console.log("Transactions on Account 2002");
 acc2.withdraw(500);
 acc2.deposit(3000);
 acc2.withdraw(6000);
